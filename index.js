@@ -1,5 +1,5 @@
 let environment = {
-    previewUrl: 'https://pacolemon.github.io/codetmp7/',
+    previewUrl: 'https://pacolemon.github.io/',
     previewUrlPWA: 'https://pwa.codetmp7.dev/', 
 };
 
